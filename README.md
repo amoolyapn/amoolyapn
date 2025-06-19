@@ -26,18 +26,8 @@
 `Frontend Development` `Flask` `Bootstrap` `Responsive Design`
 
 ### 🧰 Tools & Platforms:
-`VS Code` `GitHub` `Postman` `Google Colab` `Jupyter` `SQLite`
+`VS Code` `GitHub`  `Google Colab` `Jupyter` `SQLite`
 
----
-
-## 🏗️ Featured Projects
-
-- 📚 **Student Study Material Management System**  
-  Tech: `Python`, `Flask`, `HTML`, `CSS`, `SQLite`  
-  A portal for uploading and managing study PDFs for students.
-
-- 🧠 **SQL Query Practice App**  
-  A mini-site for practicing SQL queries on a built-in sample database.
 
 ---
 
