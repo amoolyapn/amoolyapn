@@ -1,4 +1,4 @@
-👋 Hello, I'm Amoolya P N
+ ##👋 Hello, I'm Amoolya P N
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amoolyapn&label=Profile%20Views&color=blueviolet)
@@ -6,8 +6,6 @@
                                                   💻 A PASSIONATE DEVELOPER FROM INDIA
 
    ---
-
-
 
 ✨ I'm an Absolute learner and aspiring **Data Analyst**  
 📚 Currently pursuing Information Science and Engineering  
