@@ -1,5 +1,4 @@
- ##👋 Hello, I'm Amoolya P N
-
+# 👋 Hello, I'm Amoolya P N
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amoolyapn&label=Profile%20Views&color=blueviolet)
    ---
