@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-✨ I'm an enthusiastic learner and aspiring **Full Stack Developer** and **Data Analyst**  
+✨ I'm an Absolute learner and aspiring **Data Analyst**  
 📚 Currently pursuing Information Science and Engineering  
 🌱 I’m learning Python, Data Analytics, AI, and Web Development  
 🔭 Working on projects like **Student Study Material System** and **SQL Query Practice App**  
