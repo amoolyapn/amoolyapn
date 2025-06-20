@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Amoolya P N
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amoolyapn&label=Profile%20Views&color=blueviolet)
-       💻 A PASSIONATE DEVELOPER FROM INDIA
+                          💻 A PASSIONATE DEVELOPER FROM INDIA
 
 
 ✨ I'm an Absolute learner and aspiring **Data Analyst**  
-📚 Prsuing Information Science and Engineering @Presidency University        
+📚 Pursuing my Bachelor's degree in domain **Information Science and Engineering** ,Presidency University        
 🔭 Working on projects like **Student Study Material System** and **SQL Query Practice App**  
 💡 Passionate about building tools that simplify learning and solve real-world problems
 
