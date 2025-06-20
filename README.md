@@ -4,7 +4,7 @@
                           💻 A PASSIONATE DEVELOPER FROM INDIA
 
 
-✨ I'm an Absolute learner and aspiring **Data Analyst**  
+✨ An Absolute learner and aspiring **Data Analyst**  
 📚 Pursuing my Bachelor's degree in domain **Information Science and Engineering** ,Presidency University        
 🔭 Working on projects like **Student Study Material System** and **SQL Query Practice App**  
 💡 Passionate about building tools that simplify learning and solve real-world problems
