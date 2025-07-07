@@ -3,10 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=amoolyapn&label=Profile%20Views&color=blueviolet)
 
 
-✨ An Absolute learner and aspiring **Data Analyst**  
-📚 Pursuing my Bachelor's degree in domain **Information Science and Engineering** ,Presidency University        
-🔭 Working on projects like **Student Study Material System** and **SQL Query Practice App**  
-💡 Passionate about building tools that simplify learning and solve real-world problems
+✨ An Absolute learner | Aspiring Data Analyst
+🎓 Pursuing a Bachelor's degree in Information Science and Engineering at Presidency University
+🔍 Skilled in Python, SQL, Data Visualization, and Web Technologies, with a strong interest in analytical problem-solving
+💡 Passionate about developing solutions that enhance learning experiences and address real-world challenges through data-driven insights and technology
 
 ---
 
