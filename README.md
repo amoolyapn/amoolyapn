@@ -4,8 +4,11 @@
 
 
 ✨ An Absolute learner | Aspiring Data Analyst
+
 🎓 Pursuing a Bachelor's degree in Information Science and Engineering at Presidency University
+
 🔍 Skilled in Python, SQL, Data Visualization, and Web Technologies, with a strong interest in analytical problem-solving
+
 💡 Passionate about developing solutions that enhance learning experiences and address real-world challenges through data-driven insights and technology
 
 ---
