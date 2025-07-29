@@ -75,9 +75,15 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  📬 <a href="mailto:amoolyapn2003@gmail.com">amoolyapn2003@gmail.com</a><br>
-  🔗 <a href="https://github.com/amoolyapn">GitHub</a><br>
-  🔗 <a href="https://www.linkedin.com/in/amoolya-p-n-058b5425a">LinkedIn</a>
+  <a href="mailto:amoolyapn2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-amoolyapn2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/amoolyapn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AmoolyaPN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amoolya-p-n-058b5425a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amoolya%20P%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 ---
